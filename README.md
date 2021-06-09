@@ -1,8 +1,6 @@
-Happy Birthday
+A Happy Birthday animation design in CSS3, HTML5. This is forked from https://github.com/ayusharma/birthday. Thanks to him.
 
-A Happy Birthday animation design in CSS3, HTML5.
-
-URL: http://ayusharma.github.io/birthday/
+URL: http://mfprayoga.github.io/birthday/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
